@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "e7c06236-9519-4489-862f-95400696521f")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 180.34 41.91)
+		(size 72.39 41.91)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "610b94a8-9ee7-4711-8452-ccbec86f89e9")
+		(property "Sheetname" "mixer"
+			(at 180.34 41.1984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mixer.kicad_sch"
+			(at 180.34 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mokislevy"
+				(path "/e7c06236-9519-4489-862f-95400696521f"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 36.83 34.29)
+		(size 72.39 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d9d03e67-02ec-497f-9038-e6e2842f1ff2")
+		(property "Sheetname" "pmic"
+			(at 36.83 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 36.83 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mokislevy"
+				(path "/e7c06236-9519-4489-862f-95400696521f"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
